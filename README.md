@@ -39,4 +39,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ### 🌟 About Me
 Hi there! I'm Sameer Khan. I’m an professional and passionate Analyst who enjoys working with data making it engaging!
 
-Let's stay in touch! Feel free to connect with me on the [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/sameerkhandataanalyst/))
+Let's stay in touch! Feel free to connect with me on the [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sameerkhandataanalyst/)
